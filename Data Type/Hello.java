@@ -10,6 +10,7 @@ class Hello
         float f=5.5f;
         double d=5.6;
         boolean b=true;
-        // System.out.println(num1);
+        char c = 'k';
+        System.out.println(num1);
     }
 }
