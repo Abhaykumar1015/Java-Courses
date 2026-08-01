@@ -28,8 +28,8 @@ class Operator
         // --num;  // Pre Decrement
         // System.out.println(num);
         
-        // int result=++num; // Fetch the value and then  increment
-        int result=num++; // increment the valuue and then fetch
+        // int result=++num; // increment the valuue and then fetch
+        int result=num++; // Fetch the value and then  increment
         // int term=result;
         // System.out.println(term);
         System.out.println(result);
